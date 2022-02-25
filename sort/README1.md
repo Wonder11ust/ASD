@@ -10,4 +10,12 @@ Proses mengurutkannya dari belakang,misalnya ada data 90 dan 23 apakah 90 lebih 
 <img width="670" alt="selection_1" src="https://user-images.githubusercontent.com/99226741/155537553-48927220-1c83-408d-8baf-7e3a5aa18e57.png">
 <br>Penjelasan:<br>
 Selection sort mencari data terbesar dan terkecil terlebih dahulu,index pertama mengecek apakah ada index yang lebih besar dari sebelumnya misal 29,apakah 29 lebih besar dari 15 jika iya maka tidak akan tukar posisi,lalu cek apakah 29 lebih besar dari 4,jika iya maka tidak akan bertukar posisi sampai 29 dibadningkan dengan 30,jika 29 tidak lebih besar maka bandingkan data 30 dengan data setelahnya jika 30 tidak lebih besar maka tukar posisi
+<br><br>
+3.[Insertion Sort](https://github.com/Wonder11ust/ASD/blob/main/sort/insertion.cpp):Insertion Sort merupakan sebuah teknik pengurutan dengan cara membandingkan dan mengurutkan dua data pertama pada array, kemudian membandingkan data para array berikutnya apakah sudah berada di tempat semestinya. Algorithma insertion sort seperti proses pengurutan kartu yang berada di tangan kita.
+<img width="674" alt="insertion" src="https://user-images.githubusercontent.com/99226741/155685076-2bee6c40-9394-447a-bffc-ab5012b53c0d.png">
+<br>Penjelasan:data 30 dan 20 dibanginkan terlebih dahulu,lalu jika 30>20 maka mereka akan bertukar posisi
+<br><br>
+4.[Challenge](https://github.com/Wonder11ust/ASD/blob/main/sort/challenge.cpp):Mendapatkan challenge untuk mengurutkan data array dengan insertion dan selecting sort
 <br>
+
+<img width="670" alt="challenge1" src="https://user-images.githubusercontent.com/99226741/155686907-eb93195f-49aa-4681-9e66-5bac86369401.png">
